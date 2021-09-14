@@ -1,0 +1,10 @@
+td,th,.right {text-align: right}
+.name,.symbol {text-align: left}
+tbody .name,tbody .price_usd,tbody .price_btc,tbody .price_eth {color: #00c}
+.price_usd {padding-right: 2ex}
+thead tr {background: #CEC}
+tbody tr:nth-child(even) {background: #EEE}
+.pos {color: green}
+.neg {color: red}
+a:link {text-decoration: none}
+a:visited {color: inherit}
